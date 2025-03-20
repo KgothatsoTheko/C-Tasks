@@ -7,6 +7,8 @@
 //  contents of the source file and write
 //  them to the destination file.
 
+//Run the Task-5.exe as administrator to create the new file
+
 //use the fstream for file handeling
 #include <iostream>
 #include <fstream>
@@ -15,44 +17,35 @@ using namespace std;
 
 int main() {
     string fileName, finalName, myText;
-    string done = "All done";
 
-    // Ask for  file names
     cout << "Enter the filename that you want to copy from (Format: .txt): ";
     cin >> fileName;
     cout << "Enter the new filename to copy to (Format: .txt): ";
     cin >> finalName;
 
-    // Open the source file for reading
+    //read file you want to copy
     ifstream MyReadFile(fileName);
     if (!MyReadFile) {
-        cout << "Error: Could not open source file!" << '\n';
-        return 1; // Exit the program
+        cout << "Error: Could not open source file!" << endl;
+        return 1;
     }
 
-    // Open the destination file for writing
-    ofstream MyWriteFile(finalName, ios::out);
-    if (!MyWriteFile) {
+    // Open the destination file ONCE outside the loop
+    ofstream newFile(finalName);
+    if (!newFile) {
         cout << "Error: Could not create destination file!" << endl;
-        return 1; // Exit the program
+        return 1;
     }
 
-    // Copy content line by line
+    // Read and copy line by line
     while (getline(MyReadFile, myText)) {
-        MyWriteFile << myText << '\n';
-        // Create and open a text file
-  ofstream newFile(finalName);
-
-  // Write to the file
-  newFile << myText;
-
+        newFile << myText << '\n';  // Write each line properly
     }
 
-    // Close the files
+    // Close files
     MyReadFile.close();
-    MyWriteFile.close();
+    newFile.close();
 
-    cout << "All done! Check the root path for the new file." << '\n';
-    cin >> done;
+    cout << "All done! Check: " << finalName << endl;
     return 0;
 }
