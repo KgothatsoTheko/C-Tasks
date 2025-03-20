@@ -1,0 +1,85 @@
+First Name: Kgothatso
+ Last Name: Theko
+ Aspiring Software Engineer | Full-Stack Web Developer | Mobile
+ Developer | IT Graduate | Continuous Learner
+ kgothatsotheko7@gmail.com
+ This resume was automatically generated from:
+ https://www.linkedin.com/in/kgothatso-theko-197241226
+ Summary
+ Passionate and driven Software Engineer with a Bachelor of
+ Computer & Information Science in Application Development
+ from Varsity College Waterfall. As a recent graduate, I specialize
+ in full-stack web development, with hands-on experience in the
+ MEAN Stack (MongoDB, Express.js, Angular, Node.js) and mobile
+ development using Kotlin or cross platforms like Ionic/React Native.
+ My journey includes completing a Higher Certificate in Information
+ Technology in Support Services, where I built a strong foundation
+ in IT fundamentals, troubleshooting, and customer support. I
+ further honed my communication and problem-solving skills
+ during a learnership placement at Blue Label Distribution as a Call
+ Interaction Agent, where I gained experience in client interaction
+ and issue resolution.
+ I recently enhanced my technical skills through intensive
+ web development training with Neutrinos via Afrika Tikkun
+ Services, focusing on modern web development practices, cloud
+ technologies, and industry standards. My technical expertise spans
+ JavaScript, Kotlin, C#, Docker, PostgreSQL, MongoDB, React, and
+ Android Studio, and I continuously strive to stay updated with the
+ latest advancements in the tech space.
+ I thrive on solving problems through code and have a Kaizen
+ mindset, always seeking to improve and optimize my solutions.
+ I'm excited to collaborate with innovative teams and contribute to
+ projects that make a meaningful impact.
+Interests:
+ • Problem-solving through coding
+ • Continuous learning and innovation
+ • Exploring emerging technologies like AI/ML, IoT and cloud
+ solutions
+ I am eager to contribute my skills to drive digital transformation
+ and deliver innovative, scalable solutions in both web and mobile
+ development.
+ Experience
+ Software Engineer Intern at Neutrinos
+ May 2024 - September 2024
+ Intensive training and work experience with Neutrinos via Afrika
+ Tikkun Services, focusing on modern web & mobile development
+ practices, cloud technologies, and industry standards using the
+ Neutrinos platform.
+ Candidate at Afrika Tikkun
+ November 2023 - April 2024
+ Undergone intensive training in Full Stack Web Development,
+ with a specific focus on the MEAN Stack (MongoDB, Express.js,
+ Angular, Node.js). This comprehensive program at Afrika Tikkun
+ Services, in collaboration with Neutrinos, provides hands-on
+ experience in developing dynamic web applications from front-end
+ to back-end.
+ Call Interaction Agent (CIA) at Blue Label Telecoms
+ March 2023 - May 2023
+ During a 3-month learnership at Blue Label Distribution, a division
+ of Blue Label Telecoms, I served as a Call Interaction Agent (CIA).
+ In this role, I engaged with customers over the phone, providing
+ support, answering inquiries, and ensuring customer satisfaction.
+ Although the learnership was unfinished, this experience provided
+ me with valuable insights into customer service practices,
+communication techniques, and problem-solving skills in a fast
+paced environment.
+ Student at Varsity College
+ January 2021 - December 2024
+ Completed advancing my studies in the Bachelor of Computer
+ and Information Science program, specializing in Application
+ Development. Gained comprehensive knowledge and practical
+ skills in various aspects of software development and application
+ design.
+ Education
+ Varsity College
+ Bachelor of Computer science and Information Technology in
+ Application Development , Computer and Information Sciences
+ and Support Services, January 2022 - December 2024
+ Completed Bachelor of Computer science and Information
+ Technology in Application Development with distinctions.
+ Varsity College
+ Higher Certicate in Information Technology and Support
+ Services , Computer and Information Sciences and Support
+ Services, January 2021 - December 2021
+ Completed Higher Certicate in Information Technology and support
+ services with distinctions

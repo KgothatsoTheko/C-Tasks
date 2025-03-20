@@ -15,6 +15,7 @@ using namespace std;
 //function to make Fibonacci series
 vector<int> makeFibonacci(int lengthofTerms){
     vector<int> sequence;
+
     if(lengthofTerms <= 0) return sequence;
     
     sequence.push_back(0);
@@ -30,13 +31,21 @@ vector<int> makeFibonacci(int lengthofTerms){
 }
 
 int main(){
-    int nextTerm = 7;
+
+    int nextTerm;
+    string done = "All Done";
+
+    cout << "Enter the number of terms: ";
+    cin >> nextTerm;
+
     vector<int> seq = makeFibonacci(nextTerm);
 
-    cout << "Fibonacci: ";
+    cout << "Fibonacci Sequence: ";
     for(int term : seq){
         cout << term << " ";
     }
     cout << '\n';
+    cin >> done;
+    
     return 0;
 }
