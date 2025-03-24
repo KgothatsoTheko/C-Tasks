@@ -1,6 +1,6 @@
 # 🚀 Cognifyz C/C++ Internship Tasks  
 
-This repository contains my solutions for the **C/C++ internship tasks** assigned by **Cognifyz Technologies**. The tasks helped me enhance my **problem-solving, algorithmic thinking, and coding skills** in C/C++.  
+This repository contains my solutions for the **C/C++ internship tasks** assigned by **Cognifyz Technologies**. The tasks helped me enhance my **problem-solving, algorithmic thinking, and coding skills** in C++.  
 
 ---
 
