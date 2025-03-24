@@ -59,4 +59,4 @@ This repository contains my solutions for the **C/C++ internship tasks** assigne
    ```bash
    git clone https://github.com/KgothatsoTheko/C-Tasks.git
 2. **Complie and run**
-   Open C-Tasks folder after cloning or extraction, then run the .exe task files on windows device as administrator 
+Open C-Tasks folder after cloning or extraction, then run the .exe task files on windows device as administrator 
